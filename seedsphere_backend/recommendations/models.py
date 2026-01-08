@@ -1,7 +1,5 @@
 from django.db import models
 
-from django.db import models
-
 class Plant(models.Model):
     """
     Django model for Plant data stored as nested documents in MongoDB
